@@ -1,0 +1,17 @@
+.box1{
+ width: 300px;
+ min-height: 300px;
+/* 背景色 */
+ background-color:goldenrod;
+ margin: 30px;
+padding: 30px;
+}
+
+.box2 {
+  width: 100px;
+  height: 100px;
+  background-color: rgb(0, 252, 168);
+  /* 外枠の指定方法 (box2の周囲すべてに枠線を設定する場合） */
+  border: double blue;
+
+}
